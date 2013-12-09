@@ -1,0 +1,21 @@
+{
+  "name": "",
+  "version": "0.0.0",
+  "homepage": "",
+  "authors": [
+    "GammaNu/Millicent Billette <commiter@1twitif.fr>"
+  ],
+  "main": "index.html",
+  "license": "WTF",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "git://github.com/twbs/bootstrap.git#~3.0.0"
+  }
+}

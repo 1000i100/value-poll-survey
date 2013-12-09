@@ -1,0 +1,36 @@
+{
+  "author": "",
+  "name": "",
+  "description": "",
+  "keywords": [
+    "Vote de valeur",
+    "poll",
+    "survey"
+  ],
+  "version": "0.0.1",
+  "license": "WTF",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/GammaNu/value-poll-survey.git"
+  },
+  "homepage": "",
+  "dependencies": {},
+  "devDependencies": {
+    "coffee-script": "~1.6.3",
+    "colors": "~0.6.2",
+    "watch": "~0.8.0",
+    "mocha": "~1.13.0",
+    "chai": "~1.8.0",
+    "glob": "~3.2.6",
+    "q": "~0.9.7",
+    "mkdirp": "~0.3.5",
+    "rimraf": "~2.2.2",
+    "stylus": "~0.38.0",
+    "nib": "~1.0.1",
+    "jade": "~0.35.0",
+    "chai-as-promised": "~4.1.0",
+    "bower": "~1.2.7",
+    "livereload": "~0.3.2",
+    "fs-extra": "~0.8.1"
+  }
+}

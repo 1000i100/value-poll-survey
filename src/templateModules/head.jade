@@ -1,0 +1,14 @@
+head
+	meta(charset='utf-8')
+	if page && page.title
+		title= page.title
+	else if site && site.title
+		title= site.title
+	else
+		title Accueil
+	//- base(href='file:///'+siteBase+'/build/www/')
+	base(href='../')
+	meta(name="viewport",content="width=device-width, initial-scale=1.0")
+	link(href="cdn/vendors/bootstrap.css",rel="stylesheet",media="screen")
+	link(href="cdn/vendors/bootstrap-theme.css",rel="stylesheet",media="screen")
+	link(href="cdn/accueil.css",rel="stylesheet",media="screen")
